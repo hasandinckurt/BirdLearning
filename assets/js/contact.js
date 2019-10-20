@@ -1,4 +1,10 @@
 (function ($) {
+	//Scroll to element
+	function myFunction() {
+  var elmnt = document.getElementById("section-testimonial");
+  elmnt.scrollIntoView();
+}
+	
     'use strict';
 
     var form = $('.contact_form'),
