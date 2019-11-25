@@ -1,6 +1,8 @@
 Requirement Analysis Report
+
 1. Introduction
 Project Title:
+
  BIRD LEARNING – Using open source python libraries and learning algorithms for machine learning
 Project Definition:
 In this project, we are coding a flappy bird game that learns how to play. The bird which in the game is learning how to cross the barriers and it tries to be alive.
@@ -79,3 +81,33 @@ The bird should play the game (Flappy Bird) itself. But the bird doesn’t know 
 --> Usability: This project`s learning algorithm can use on other games, if learning algorithm to be revised.
 --> Availability: The Q-Learning algorithm that we`ll use, is available on all gaming platforms.
 
+
+6. Use Cases
+
+Use Case Name: Bird Learning
+Actors:
+•	System
+•	The Bird
+Pre-condition:
+•	The bird will hit to a barrier or the floor. 
+Post-conditions:
+•	The System will get the data from last failed game. 
+•	The system will rearrange the coordinates. 
+•	The bird will fly.
+Normal Flow:
+1.	The bird will start to fly.
+2.	The bird will hit to a barrier.
+3.	The game will be over.
+4.	The system will get the data from last failed game.
+5.	The system will rearrange the coordinates. 
+6.	The bird will start to fly.
+7.	The use case returns to step 2 and continues until it.
+
+Alternate Flows:
+2A1: The algorithm won`t work correctly.
+1.	The bird will hit to the floor.
+2.	The use case returns to step 3 and continues until it.
+6A1: The bird won`t hit anywhere. 
+1.	The bird will fly without hitting till forever.
+ 
+  
