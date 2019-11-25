@@ -2,7 +2,7 @@
 
 https://grup1.github.io/BirdLearning/
 
-Report 1: 
+ 
 ## Weekly Progress Summary (18.11.2019) 
 
 • Decided and start to work about the deep learning algorithm
