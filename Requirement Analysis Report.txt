@@ -61,8 +61,6 @@ Week-9
 
 4. Process Model
 
- 
-
 In this Project, we decided to use Waterfall V-Model. Because, our project isn’t open to change so weekly meetings are not necessary and Agile models cause to lose time and money. 
  But Waterfall models is fit for us. In our Project, the most important part is testing. V-Model doesn’t go to linearly. We can test the project after every step.
  In V model, based on the requirements the System test cases are prepared, and based on the HLD (High level document)the Integration Test cases are prepared, and based on the LLD(Low-level document)the Integration Test cases are prepared. And then the coding is done. 
@@ -107,6 +105,7 @@ Alternate Flows:
 2A1: The algorithm won`t work correctly.
 1.	The bird will hit to the floor.
 2.	The use case returns to step 3 and continues until it.
+
 6A1: The bird won`t hit anywhere. 
 1.	The bird will fly without hitting till forever.
  
