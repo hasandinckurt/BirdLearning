@@ -6,6 +6,7 @@ https://grup1.github.io/BirdLearning/
 ## Weekly Progress Summary (18.11.2019) 
 
 • We met 2 times in this week.
+
 -- Hümeyra and Oğuzhan;
 
 • Kept continue about the game.
@@ -14,8 +15,8 @@ https://grup1.github.io/BirdLearning/
 
 
 
--- Gökçen TÜRKÖZ, Hasan DİNÇKURT, Yasin Tarık SUYABATMAZ => 
- •Researched and started to learn Q-Learning algorithm.
+ -- Gökçen, Hasan, Yasin Tarık;
+ • Researched and started to learn Q-Learning algorithm.
  • Updated the web site and GitHub account
  • Installed libraries (Pygame and Tensorflow)
  • Added System Requirements Report
@@ -27,8 +28,8 @@ https://grup1.github.io/BirdLearning/
 
 -- Hümeyra and Oğuzhan;
 • Kept continue about the game.
-• Updated the web site and GitHub account
-• Added System Requirements Report
+• Updated the web site and GitHub account.
+• Added System Requirements Report.
 
 
 
@@ -36,7 +37,20 @@ https://grup1.github.io/BirdLearning/
 • Kept continue about Q-Learning algorithm.
 • Added System Requirements 
 
+## Weekly Progress Summary (09.12.2019) 
 
+• We met 1 times in this week.
+
+-- Hümeyra and Oğuzhan;
+• Finished the game
+• Stabilization
+• Testing
+
+
+-- Gökçen, Hasan, Yasin Tarık;
+• Kept continue about Q-Learning algorithm
+• Upload the game
+• Updated GitHub account
 
 ## Tasking:
 
