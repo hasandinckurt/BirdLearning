@@ -52,6 +52,16 @@ https://grup1.github.io/BirdLearning/
 • Upload the game
 • Updated GitHub account
 
+## Weekly Progress Summary (18.11.2019) 
+• We met 3 times in this week.
+
+-- All team members;
+• Kept continue about Q-Learning algorithm
+• Testing
+• Recorded the game
+• Updated GitHub account
+
+
 ## Tasking:
 
 Front-end --> Hümeyra BİLGİ
