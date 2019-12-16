@@ -52,7 +52,7 @@ https://grup1.github.io/BirdLearning/
 • Upload the game
 • Updated GitHub account
 
-## Weekly Progress Summary (18.11.2019) 
+## Weekly Progress Summary (16.12.2019) 
 • We met 3 times in this week.
 
 -- All team members;
