@@ -1,7 +1,7 @@
 import sys
 import random
 import pygame
-from playerShm import *
+from salinim import *
 from pixel import *
 from pygame.locals import *
 from ekran import *
@@ -78,7 +78,7 @@ def anaekran():
             bird_Index = next(birdIndexCycle)
         count = (count + 1) % 30
         zeminx = -((-zeminx + 4) % zemin_move)
-        playerShm(birdShmVals)
+        salinim(birdShmVals)
 
         # blit() --> pygame
         SCREEN.blit(IMAGES['arkaplan'], (0,0))
