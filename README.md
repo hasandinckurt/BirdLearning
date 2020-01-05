@@ -73,6 +73,25 @@ https://grup1.github.io/BirdLearning/
 • Made documentation about Q-Learning
 • Updated GitHub account
 
+## Weekly Progress Summary (30.12.2019)
+• We met 3 times in this week.
+
+-- All team members;
+• Testing
+• Recorded the game with next iteration
+• Made Bird Learning Tutorial 
+• Updated GitHub account
+
+## Weekly Progress Summary (06.01.2020)
+• We met 3 times in this week.
+
+-- All team members;
+• Testing
+• Added references
+• Recorded the game with next iteration
+• Made Bird Learning Tutorial 
+• Updated GitHub account
+
 
 ## Tasking:
 
