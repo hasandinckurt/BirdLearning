@@ -42,10 +42,6 @@
 		height: 188px;
 		border-radius: 0px;
 	}
-	.countdown #timer div{
-		width: 23%;
-		font-size: 10px;
-	}
 }
 
 /* mobile or only mobile */
