@@ -102,6 +102,9 @@ Each time, the bird predicts and moves forward according to this algorithm and r
 ## References
 
 • https://www.analyticsvidhya.com/blog/2019/04/introduction-deep-q-learning-python/
+
 • https://en.wikipedia.org/wiki/Reinforcement_learning
+
 • https://pathmind.com/wiki/deep-reinforcement-learning
+
 • https://www.geeksforgeeks.org/what-is-reinforcement-learning/
