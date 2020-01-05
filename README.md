@@ -99,3 +99,9 @@ Since our bird has no experience at the beginning, our Q-Table is full of zeros 
 
 Each time, the bird predicts and moves forward according to this algorithm and reaches the prize. After reaching the award, the agent starts to move again from a random place and tries to find the prize again. As this process continues, the agent begins to know where to go in what situation.
 
+## References
+
+• https://www.analyticsvidhya.com/blog/2019/04/introduction-deep-q-learning-python/
+• https://en.wikipedia.org/wiki/Reinforcement_learning
+• https://pathmind.com/wiki/deep-reinforcement-learning
+• https://www.geeksforgeeks.org/what-is-reinforcement-learning/
