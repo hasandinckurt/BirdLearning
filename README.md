@@ -74,7 +74,7 @@ https://grup1.github.io/BirdLearning/
 • Updated GitHub account
 
 ## Weekly Progress Summary (30.12.2019)
-• We met 3 times in this week.
+• We met 2 times in this week.
 
 -- All team members;
 • Testing
@@ -89,7 +89,8 @@ https://grup1.github.io/BirdLearning/
 • Testing
 • Added references
 • Recorded the game with next iteration
-• Made Bird Learning Tutorial 
+• Made Bird Learning Tutorial
+• Added scor on the game
 • Updated GitHub account
 
 
